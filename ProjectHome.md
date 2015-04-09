@@ -1,0 +1,1 @@
+A Python chat server and client using the udp protocol designed for lan and internet connectivity/usage with minimal cpu/ram usage.
